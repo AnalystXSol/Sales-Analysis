@@ -31,6 +31,7 @@ Tables and Bookcases appear in red, possibly indicating low profitability or los
 Paper and Furnishings have significant quantities sold, suggesting high demand.
 
 ## Visuals  
+![Dashboard](https://github.com/AnalystXSol/Sales-Analysis/blob/main/Sales%20Analysis.png)
 
 ## Project File  
 [Download the Power BI Project](https://github.com/AnalystXSol/Sales-Analysis/blob/main/SALES%20ANALYSIS.pbix) 
