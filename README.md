@@ -1,5 +1,5 @@
 # Sales-Analysis
-Analyzing sales performance trends using Python and visualization tools.
+Analyzing sales performance trends using visualization tools, PowerBI.
 
 ## Table of Contents  
 1. [Overview](#overview)  
