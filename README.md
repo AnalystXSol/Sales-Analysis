@@ -30,7 +30,7 @@ Binders, Phones, and Storage are the most sold items.
 Tables and Bookcases appear in red, possibly indicating low profitability or loss-making products.
 Paper and Furnishings have significant quantities sold, suggesting high demand.
 
-## Visuals  
+## Dashboard  
 ![Dashboard](https://github.com/AnalystXSol/Sales-Analysis/blob/main/Sales%20Analysis.png)
 
 ## Project File  
